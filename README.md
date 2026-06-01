@@ -84,29 +84,33 @@ https://iugrid-ai-grievance-system.vercel.app
 
 ## Project Workflow
 
-Student Complaint Submission
-↓
-Complaint Analysis
-↓
-Category & Priority Detection
-↓
-Admin Review & Decision Support
-↓
-Complaint Status Management
-↓
-Resolution Tracking
+## Project Workflow
 
----
+```text
+Student Complaint Submission
+            ↓
+Complaint Analysis
+            ↓
+Category & Priority Detection
+            ↓
+Admin Review & Decision Support
+            ↓
+Complaint Status Management
+            ↓
+Resolution Tracking
+```
 
 ## Authentication Flow
 
+```text
 Signup
-↓
+   ↓
 Email Verification
-↓
+   ↓
 Login
-↓
+   ↓
 Role-Based Dashboard Access
+```
 
 ---
 
