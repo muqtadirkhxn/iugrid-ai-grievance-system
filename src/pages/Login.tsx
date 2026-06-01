@@ -120,9 +120,9 @@ export default function Login() {
       // SIGNUP
       else {
         const signupData = formData as SignupForm;
-
+        console.log(signupData.email);
         const { data, error: signupError } = await supabase.auth.signUp({
-          email: signupData.email,
+          email: signupData.email.trim(),
           password: signupData.password,
 
           options: {
