@@ -84,8 +84,6 @@ https://iugrid-ai-grievance-system.vercel.app
 
 ## Project Workflow
 
-## Project Workflow
-
 ```text
 Student Complaint Submission
             ↓
